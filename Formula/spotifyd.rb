@@ -1,10 +1,8 @@
 class Spotifyd < Formula
   desc " A spotify daemon "
   homepage "https://github.com/Spotifyd/spotifyd"
-  url "https://github.com/Spotifyd/spotifyd/releases/download/v0.2.24/spotifyd-macos-full.tar.gz"
-  sha256 "93b0d8e5d5ea4549fbdf5ec468a790ca28609cff876f2d09251e46a9ae323afa"
-
-  bottle :unneeded
+  url "https://github.com/Spotifyd/spotifyd/releases/download/v0.3.3/spotifyd-macos-full.tar.gz"
+  sha256 "3a9803452e1fe9fa16eeb292808add57169688cf4ba49591416b5a575a830c19"
 
   depends_on "dbus"
   depends_on "portaudio"
