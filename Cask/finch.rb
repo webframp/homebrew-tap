@@ -9,4 +9,6 @@ cask "finch" do
   homepage "https://github.com/runfinch/finch"
 
   pkg "Finch-v#{version}-x86_64.pkg"
+
+  zap trash: "/Applications/Finch"
 end
