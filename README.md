@@ -9,3 +9,4 @@ that doesn’t qualify for upstream inclusion in
 - [ec2-instance-connect-cli](https://github.com/aws/aws-ec2-instance-connect-cli)
 - some [pass](https://www.passwordstore.org/) extensions
 - [spotifyd](https://github.com/Spotifyd/spotifyd)
+- [finch](https://github.com/runfinch/finch)
